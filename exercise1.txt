@@ -1,0 +1,8 @@
+$ cd Documents/Bio\ -\ Informatica/Periode\ B\ \(2\)/BIT05\ Databanktechnologie/
+
+$ mkdir les6_oefeningen
+
+$ sublime exercise1.txt
+
+
+
